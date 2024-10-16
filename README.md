@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋! My name is Sudhan Parajuli and I'm a Full Stack Developer, from Nepal.</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0900F7&center=true&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Sudhan+Parajuli.;+I'm+a+Full+Stack+Developer.)](https://git.io/typing-svg)
 ###
 
 <div align="center">
