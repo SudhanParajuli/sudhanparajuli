@@ -19,7 +19,7 @@
 <div align="center">
 <a align="left" href="https://git.io/streak-stats"><img  src="https://streak-stats.demolab.com?user=SudhanParajuli&theme=bear" alt="GitHub Streak" /></a>
      <img align="center" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNzc2I3MHZtZHM4OWlzaDdmbGhlZDlsZTFxY2N0cnZ0eGxvMnpqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanparajuli&locale=en&hide=None&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=false" height="200" alt="languages graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanparajuli&locale=en&hide=HTML&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 <div align="center" >
