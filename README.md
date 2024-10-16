@@ -23,28 +23,18 @@
 
 ---
 
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanparajuli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
+<hr>
 <div align="center" >
-  <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNzc2I3MHZtZHM4OWlzaDdmbGhlZDlsZTFxY2N0cnZ0eGxvMnpqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
+  <img align="center" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNzc2I3MHZtZHM4OWlzaDdmbGhlZDlsZTFxY2N0cnZ0eGxvMnpqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
 </div>
+<hr>
 
-
-###
-
-
-
-###
-
-<div align="left">
+<div align="center">
   <a href="mailto:dond38480@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+<hr>
