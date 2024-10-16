@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h1 align="centre"> My Skills</h1>
+<h1 align="center"> My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,c,postman,vscode,py,js,html,css" />
