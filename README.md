@@ -56,6 +56,6 @@
 <div align="center">
 <h2>Contributions</h2>
 <br>
-<img src="https://github.com/SudhanParajuli/sudhanparajuli/github-user-contribution.svg">
+<img src="https://github.com/SudhanParajuli/sudhanparajuli/output/github-user-contribution.svg">
   
 </div>
