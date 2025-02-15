@@ -8,7 +8,7 @@
 <h1 align="center"> My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,c,postman,vscode,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=django,flask,c,postman,vscode,py,js,html,css" />
   </a>
 </p>
 
